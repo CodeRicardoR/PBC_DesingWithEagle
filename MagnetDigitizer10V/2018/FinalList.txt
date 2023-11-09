@@ -1,0 +1,217 @@
+Partlist
+
+Exported from Digitizer10Bits.brd at 2021-03-26 2:33:27 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part          Value            Package        Library         Position (mil)        Orientation
+
+AUX                            1X02           pinhead         (687 3562)            R0
+C1            0.1uF            C0603          rcl             (4236 1994)           MR0
+C2            0.1uF            C0603          rcl             (4236 2206)           MR0
+C3            0.1uF            C0603          rcl             (4236 1593)           MR0
+C4            0.1uF            C0603          rcl             (4236 1822)           MR0
+C5            0.1uF            C0603          rcl             (4236 1218)           MR0
+C6            0.1uF            C0603          rcl             (4236 1441)           MR0
+C7            0.1uF            C0603          rcl             (4236 862)            MR0
+C8            0.1uF            C0603          rcl             (4236 1071)           MR0
+C9            0.1uF            C0603          rcl             (3617 1583)           MR0
+C10           0.1uF            C0603          rcl             (3382 1582)           MR0
+C12           0.1uF            C0603          rcl             (3224 3382)           R90
+C14           0.1uF            C0603          rcl             (3927 3230)           MR180
+C16           0.1uF            C0603          rcl             (3512 3230)           MR0
+C20           0.1uF            C0603          rcl             (4417 3052)           MR0
+C21           0.1uF            C0603          rcl             (4452 2645)           MR270
+C25           0.1uF            C0603          rcl             (5069 3081)           R0
+C26           0.1uF            C0603          rcl             (4507 3114)           R90
+C30           0.1uF            C0603          rcl             (1620.89 636.26)      R0
+C31           0.1uF            C0603          rcl             (1620.89 1090.26)     R0
+C38           0.1uF            C0603          rcl             (3040 1568)           R270
+C39           0.1uF            C0603          rcl             (3454 1092)           R0
+C40           0.1uF            C0603          rcl             (3040 1954)           R270
+C41           0.1uF            C0603          rcl             (3068 1092)           R180
+C44           0.1uF            C0603          rcl             (1447 3027)           R90
+C46           0.1uF            C0603          rcl             (1843 2263)           R270
+C47           0.1uF            C0603          rcl             (880 2913)            R180
+C48           0.1uF            C0603          rcl             (734 2913)            R180
+C49           0.1uF            C0603          rcl             (982.5 2652)          R90
+C50           0.1uF            C0603          rcl             (585 2913)            R180
+C51           0.1uF            C0603          rcl             (983.5 2466)          R270
+C53           0.1uF            C0603          rcl             (587.52 1354.11)      R0
+C55           0.1uF            C0603          rcl             (340.37 1563.26)      R270
+C56           0.1uF            C0603          rcl             (2152.26 727.11)      R90
+C57           0.1uF            C0603          rcl             (2874 1003)           MR90
+------------------------------------------------------------------------------------------------------>34*
+
+
+
+C11           10uF             A/3216-18W     rcl             (3008 3346)           R0
+C13           10uF             A/3216-18W     rcl             (3986 2927)           MR270
+C15           10uF             A/3216-18W     rcl             (3462 2927)           MR90
+C33           10uF             A/3216-18W     rcl             (2605 2195)           MR270
+C35           10uF             A/3216-18W     rcl             (2975 2195)           MR270
+C43           10uF             A/3216-18W     rcl             (1126 3207)           R0
+C52           10uF             A/3216-18W     rcl             (669.48 1143.48)      R0
+C58           10uF             A/3216-18W     rcl             (3275 1816)           MR90
+C59           10uF             A/3216-18W     rcl             (3740 1727)           MR270
+------------------------------------------------------------------------------------------------------>9*
+
+
+
+C17           47uF             PANASONIC_E    rcl             (4212 3198)           MR180
+C19           47uF             PANASONIC_E    rcl             (4718 3198)           MR0
+C22           47uF             PANASONIC_E    rcl             (4191 3450)           R270
+C24           47uF             PANASONIC_E    rcl             (5036 3450)           R270
+C27           47uF             PANASONIC_E    rcl             (1587.89 279.26)      R90
+C29           47uF             PANASONIC_E    rcl             (1242.89 544.26)      R0
+------------------------------------------------------------------------------------------------------>6*
+
+
+C18           100uF            PANASONIC_E    rcl             (4710 2625)           MR90
+C23           100uF            PANASONIC_E    rcl             (4191 2958)           R90
+C28           100uF            PANASONIC_E    rcl             (1587.89 1405.26)     R270
+------------------------------------------------------------------------------------------------------>3*
+
+
+
+C32           0.1uF            A/3216-18W     rcl             (2720 2195)           MR270
+C34           0.1uF            A/3216-18W     rcl             (2845 2195)           MR270*
+
+C36           2.2uF            A/3216-18W     rcl             (3155 1865)           MR270
+C37           2.2uF            A/3216-18W     rcl             (3155 1630)           MR90*
+
+
+C42           20pF             C0603          rcl             (1400 2376)           MR90
+C45           20pF             C0603          rcl             (1400 2190)           MR270*
+
+C60           22nF             C0603          rcl             (3155 2097)           MR90*
+
+R52           0                R0603          rcl             (1263 2839)           R270
+R53           0                R0603          rcl             (2561 2839)           R270
+
+R29           10               R0805          rcl             (1955.11 1747.74)     MR180
+R31           10               R0805          rcl             (1217.89 1745.26)     MR180
+R32           10               R0805          rcl             (1957.89 1245.26)     MR0
+R46           10               R0805          rcl             (3275 2017)           MR270
+R47           10               R0805          rcl             (3738 1935)           MR270
+------------------------------------------------------------------------------------------------------>5*
+
+R30           30               R0603          rcl             (1938 2196)           R270*
+
+R17           200              R0603          rcl             (3357 1003)           MR90
+R18           200              R0603          rcl             (3424 1003)           MR90
+R19           200              R0603          rcl             (3488 1003)           MR90
+R20           200              R0603          rcl             (3469 1999)           MR0
+R21           200              R0603          rcl             (2851 1198)           MR90
+R22           200              R0603          rcl             (2724 1198)           MR90
+R24           200              R0603          rcl             (2659 1198)           MR270
+R25           200              R0603          rcl             (2595 1197)           MR270
+R27           100              R0603          rcl             (1336 3240)           R270
+R34           200              R0603          rcl             (2177 2684)           R0
+R35           200              R0603          rcl             (2177 2608)           R0
+R36           200              R0603          rcl             (2177 2458)           R0
+R37           200              R0603          rcl             (2177 2387)           R0
+R38           200              R0603          rcl             (2177 2315)           R0
+R39           200              R0603          rcl             (2177 2242)           R0
+R40           200              R0603          rcl             (2177 2170)           R0
+R42           200              R0603          rcl             (2787 1198)           MR90
+R43           200              R0603          rcl             (2177 2534)           R0
+R44           200              R0603          rcl             (2913 1198)           MR270
+R45           200              R0603          rcl             (3082 1003)           MR270
+R48           100              R0603          rcl             (757.26 1862.11)      R90
+R49           100              R0603          rcl             (780.74 2264.89)      R270
+R50           100              R0603          rcl             (655.26 1916.11)      R90
+R51           100              R0603          rcl             (674.74 2240.89)      R270
+------------------------------------------------------------------------------------------------------>24*
+
+R23           1K               R0603          rcl             (3155 1380)           MR270
+R26           1k               R0603          rcl             (739 3256)            R270
+R33           1K               R0603          rcl             (2045.74 568.89)      R180*
+
+R1            10k              R0603          rcl             (4386 2035)           MR0
+R3            10k              R0603          rcl             (4386 2165)           MR0
+R5            10k              R0603          rcl             (4386 1635)           MR0
+R7            10k              R0603          rcl             (4386 1780)           MR0
+R9            10k              R0603          rcl             (4386 1260)           MR0
+R11           10k              R0603          rcl             (4386 1400)           MR0
+R13           10k              R0603          rcl             (4386 905)            MR0
+R15           10k              R0603          rcl             (4386 1030)           MR0
+R28           10k              R0603          rcl             (1516 3207)           R0
+------------------------------------------------------------------------------------------------------>9*
+
+R2            1M               R0603          rcl             (4536 1991)           MR0
+R4            1M               R0603          rcl             (4536 2208)           MR0
+R6            1M               R0603          rcl             (4536 1591)           MR0
+R8            1M               R0603          rcl             (4536 1824)           MR0
+R10           1M               R0603          rcl             (4536 1217)           MR0
+R12           1M               R0603          rcl             (4536 1443)           MR0
+R14           1M               R0603          rcl             (4536 860)            MR0
+R16           1M               R0603          rcl             (4536 1073)           MR0
+------------------------------------------------------------------------------------------------------>8*
+
+
+D1            SMLVT3V3         SMLVT3V3       magnetometro    (1957.89 1025.26)     MR0
+D2            SMLVT3V3         SMLVT3V3       magnetometro    (1217.89 1025.26)     MR180*
+
+D3            SMBJ15CA         DIODE_KK2      magnetometro    (1955.11 1497.74)     MR180
+D4            SMBJ15CA         DIODE_KK2      magnetometro    (1216.89 1497.26)     MR180*
+
+D5            DB2X20700L       DIODE_PW       magnetometro    (4355 3570)           MR180*
+
+F1                             NFE-2706       magnetometro    (3823 2998)           MR270
+F2                             NFE-2706       magnetometro    (3618 2998)           MR270
+F3                             NFE-2706       magnetometro    (4693 2932)           MR180*
+
+GAP1          CG75L            GAP            magnetometro    (1960.11 1666.74)     R180
+GAP2          CG75L            GAP            magnetometro    (1217.89 1665.26)     R180
+GAP3          CG75L            GAP            magnetometro    (1217.89 1165.26)     R180
+GAP4          CG75L            GAP            magnetometro    (1957.89 1165.26)     R0*
+
+
+IC1           MAX337           SSOP28         Ricardo_Library (3500 1335)           MR270*
+
+IC2           NMA0515DC        NMA1512DC      magnetometro    (3236 3684)           MR180*
+
+IC3           LT1121-5         SO08           Ricardo_Library (4286 2799)           MR0*
+
+IC4           LT1121-3.3       SO08           Ricardo_Library (4752 3006)           R270-----> No va
+IC5           LT1121-3.3       SO08           Ricardo_Library (1512.89 860.26)      R180*
+
+IC6           ADS7825          SOIC-28        magnetometro    (2795 1750)           MR270*
+
+IC7           ADUM1401         SO-16W         Ricardo_Library (2769 1762)           R180
+IC8           ADUM1401         SO-16W         Ricardo_Library (3261 826)            R270*
+
+IC9           PIC16F876A       SO28W          Ricardo_Library (1551 2406)           R270
+
+IC10          NC7SZ32          SOT-23-5       magnetometro    (1300 3044)           R90
+IC13          NC7SZ32          SOT-23-5       magnetometro    (2043.26 743.11)      R90
+
+IC11          MAX3232          SOIC16N        Ricardo_Library (782 2585)            R180
+
+IC12          FT232RL          SSOP28         ftdichip        (590.89 1604.48)      R180
+
+IC14          M74VHC1GT86DFT1G SOT-353        magnetometro    (2972 1003)           MR180
+
+IC15          OP07CR           SO08           linear          (3501 1849)           MR270
+
+XTAL          7.3728           CRYSTAL_SMD    Ricardo_Library (1682.5 2282)         MR90
+
+
+SERIAL                         ML10           con-harting-ml  (260 2456)            R90
+
+
+VINPUT                         W237-102       con-wago-500    (4610 3557)           R0
+
+CHANNEL_INPUT                  F25HP          con-subd        (5295 1879.449)       R270
+
+PROG                           HEADER_SMD_6   Ricardo_Library (1930 3493)           R270
+RST                            HEADER_SMD_2   Ricardo_Library (1129 3597)           R270
+
+
+SHIELD1                        SHIELD_38X50   magnetometro    (3905 590)            MR0
+
+GPS                            MOLEX_FLEX8PIN magnetometro    (1767.89 205.26)      MR180
+
+USB                            1X04           pinhead         (577 963)             R180
+LED_GPS                        1X02           pinhead         (2607.984 162.465)    R180

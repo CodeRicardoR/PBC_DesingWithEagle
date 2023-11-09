@@ -1,0 +1,38 @@
+Partlist
+
+Exported from MagnetCharger.brd at 17/10/2021 18:09:32
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Package     Library         Position (mil)        Orientation
+
+BAT                     W237-102    con-wago-500    (2530 1915)           R90
+C1       47uF           PANASONIC_E rcl             (810 2335)            MR270
+C2       100uF          PANASONIC_E rcl             (1295 1860)           MR270
+C3       47uF           PANASONIC_E rcl             (410 2335)            MR270
+C4       0.1uF          C0603       rcl             (560 1990)            MR180
+C5       0.1uF          C0603       rcl             (865 1990)            MR0
+C6       0.1uF          C0603       rcl             (1355 2155)           MR0
+C8                      A/3216-18W  rcl             (2035 1650)           MR0
+D1       1N5400         DO201-15    diode           (530 1020)            R90
+D2       1N5400         DO201-15    diode           (240 1010)            R90
+D3       1N4148         DO35-10     diode           (1565 1150)           R90
+F1                      NFE-2706    magnetometro    (1035 1860)           MR270
+IC1      LT1121-5       SO08        Ricardo_Library (715 1805)            MR270
+IC2      PIC12F675SN    SO-08       microchip       (1490 2325)           MR90
+IC3      OP07CR         SO08        linear          (2005 1915)           MR180
+K1       JS-M1-12V-5    JS-M        relay           (2275 1150)           R180
+OK1      4N45           DIL06       optocoupler     (1040 1155)           R180
+ON/OFF                  LED3MM      led             (1100 2365)           R270
+R1                      R10W_48MM   LibraryMagnet   (1400 295)            R0
+R2       1K             R0603       rcl             (1045 1155)           MR180
+R3       1K             R0603       rcl             (1625 2155)           MR180
+R4       10K            R0805       rcl             (2215 1915)           MR90
+R5       10             R0805       rcl             (1840 1650)           MR0
+R6       3.24K          R0805       rcl             (2055 2150)           MR180
+R7       1K             R0603       rcl             (1255 2380)           MR90
+R8       300            R0603       rcl             (1490 2495)           MR0
+R9       300            R0603       rcl             (1745 2400)           MR180
+SERIAL                  1X03/90     pinhead         (2035 2540)           R0
+T1       BC337          TO92        transistor      (1370 1150)           R90
+VDC_IN                  W237-103    con-wago-500    (280 1790)            R270

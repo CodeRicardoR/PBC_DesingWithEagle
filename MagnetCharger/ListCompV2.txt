@@ -1,0 +1,78 @@
+Partlist
+
+Exported from MagnetChargerV2.brd at 22/11/2021 21:51:52
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Package   Library          Position (mil)        Orientation
+
++12VDC                  W237-102  con-wago-500     (2780 2430)           R0
++15VDC                  W237-102  con-wago-500     (925 2430)            R0
+BATTERY                 W237-102  con-wago-500     (3880 740)            R270
+LOAD                    W237-102  con-wago-500     (3880 1560)           R270
+
+JP1                     1X06/90   pinhead          (2210 2440)           R0
+METER                   1X02      pinhead          (3850 1150)           R180
+RST                     1X02      pinhead          (2510 1650)           R180
+SERIAL                  1X03/90   pinhead          (1510 2440)           R0
+
+C1       100u           E3,5-8    rcl              (3290 2385)           R90
+C2       100u           E3,5-8    rcl              (3290 2000)           R90*
+
+C3       0.1u           C0603     rcl              (1630 1940)           MR180
+C6       0.1u           C0603     rcl              (2255 1030)           MR90*
+
+C4       20p            C0603     rcl              (1640 1170)           MR180
+C5       20p            C0603     rcl              (1490 1170)           MR0*
+
+
+D1       1N5400         DO201-15  diode            (520 690)             R180
+D2       1N5400         DO201-15  diode            (3180 1660)           R180*
+
+IC1      PIC16F876SO    SO28W     microchip        (1670 1630)           MR0*
+
+IC2      7805           78XXS     v-reg            (3790 2100)           R270*
+
+IC3      LM358N         DIL08     linear           (2540 850)            R0*
+
+KK2      SK104-PAD      SK104-PAD heatsink         (395 1600)            R270
+
+LED1                    LED3MM    led              (1800 2510)           R90
+LED2                    LED3MM    led              (1240 2510)           R90*
+
+
+OK1      4N35           DIL06     optocoupler      (950 1140)            R90*
+
+PROG                    EDG-02    special          (2210 1635)           R180*
+
+Q1       IRF9530        TO220BV   transistor-power (400 1600)            R90
+Q3       IRF9530        TO220BV   transistor-power (3180 1350)           R0*
+
+Q2       BC337          TO92      transistor-npn   (825 1715)            R270*
+
+Q4       7.3728         SM49      crystal          (1565 980)            MR180*
+
+R1/20W   1              R20W      LibraryMagnet    (2050 300)            R180*
+
+R2       10k            R0603     rcl              (965 1465)            MR90
+R4       10k            R0603     rcl              (715 1465)            MR270
+R6       10k            R0603     rcl              (3110 1430)           MR180
+R8       10k            R0805     rcl              (2870 810)            MR0
+R13      10k            R0603     rcl              (2560 1450)           MR270*
+
+R3       1K             R0603     rcl              (880 1465)            MR270
+R14      1k             R0603     rcl              (1815 2070)           MR90
+R15      1k             R0603     rcl              (1295 2070)           MR90
+
+R5       100            R0603     rcl              (1120 1360)           MR180
+R10      100            R0603     rcl              (1510 2070)           MR90
+R11      100            R0603     rcl              (1410 2070)           MR270
+R12      100            R0603     rcl              (2460 1450)           MR270*
+
+R7       10             R0805     rcl              (2255 845)            MR90*
+
+R9       3.3k           R0805     rcl              (2870 950)            MR0*
+
+
+
+

@@ -1,0 +1,58 @@
+Partlist
+
+Exported from CktoPower.brd at 2019-12-03 4:44:06 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part      Value          Package     Library         Position (mil)        Orientation
+
+C2        0.1uF          C0603       rcl             (790 1365)            MR270
+C9        0.1uF          C0603       rcl             (1440 1650)           MR90
+C10       0.1uF          C0603       rcl             (780 1650)            MR90
+C14       0.1uF          C0603       rcl             (1285 530)            MR180
+C15       0.1uF          C0603       rcl             (1340 205)            MR90
+
+C7        10uF           C/6032-28R  rcl             (2200 2000)           MR180
+C8        10uF           C/6032-28R  rcl             (1800 2000)           MR180
+C16       10uF           C/6032-28R  rcl             (2270 750)            MR90
+
+
+C11       47uF           PANASONIC_E rcl             (600 630)             MR270
+C12       47uF           PANASONIC_E rcl             (970 630)             MR270
+
+C13       100uF          PANASONIC_E rcl             (1565 300)            MR270
+C1        100uF          PANASONIC_E rcl             (600 1120)            MR90
+
+IC1       NTA0505M       DCDC        Ricardo_Library (1110 1500)           MR90
+
+IC2       LM317          TO220-S     magnetometro    (2225 1150)           R270
+IC3       LM337          TO220-S     magnetometro    (1080 2070)           R90
+
+IC4       LT1121         SO08        Ricardo_Library (1175 290)            MR0
+
+R3        240            R_025W      Ricardo_Library (2430 1150)           R270
+R4        240            R_025W      Ricardo_Library (1310 2070)           R270
+
+VIN-5V                   W237-102    con-wago-500    (360 1110)            R270
+VOUT-3.3                 W237-102    con-wago-500    (1960 240)            R0
+VOUT-5V                  W237-102    con-wago-500    (700 240)             R0
++/-5VAN                  W237-102    con-wago-500    (2545 675)            R90
+
++/-2.5VAN                W237-103    con-wago-500    (2000 2160)           R180
+
+------------------------------------------------------------------------------------
+Comprar:
+R1        1K             RTRIM64W    rcl             (2280 1660)           R0
+R2        1K             RTRIM64W    rcl             (1950 1660)           R180
+
+D1        1N4002         DIODE       Ricardo_Library (2575 1150)           R270    *
+D2        1N4002         DIODE       Ricardo_Library (1490 2070)           R270    *
+D3        1N4002         DIODE       Ricardo_Library (1990 1150)           R270    *
+D4        1N4002         DIODE       Ricardo_Library (790 2070)            R90     *
+
+
+C3        10uF           E2,5-5      rcl             (1645 1710)           R90
+C5        10uF           E2,5-5      rcl             (2575 1610)           R90
+
+C4        470uF          E5-10,5     rcl             (1695 1175)           R90
+C6        470uF          E5-10,5     rcl             (465 1785)            R270

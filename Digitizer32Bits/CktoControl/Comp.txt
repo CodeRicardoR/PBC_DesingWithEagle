@@ -1,0 +1,76 @@
+Partlist
+
+Exported from CktoControl.sch at 2019-12-12 9:57:16 AM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device            Package     Library         Sheet
+
+C1       0.1uF          C-USC0603         C0603       rcl             1
+C2       0.1uF          C-USC0603         C0603       rcl             1
+C6       0.1uF          C-USC0603         C0603       rcl             1
+C7       0.1uF          C-USC0603         C0603       rcl             1
+C8       0.1uF          C-USC0603         C0603       rcl             1
+C9       0.1uF          C-USC0603         C0603       rcl             1
+C10      0.1uF          C-USC0603         C0603       rcl             1
+C14      0.1uF          C-USC0603         C0603       rcl             1
+C15      0.1uF          C-USC0603         C0603       rcl             1
+
+C4       20pF           C-USC0603         C0603       rcl             1
+C5       20pF           C-USC0603         C0603       rcl             1
+
+C3       10uF           CPOL-USA/3216-18W A/3216-18W  rcl             1
+
+C11      47uF           CPOL-USE          PANASONIC_E rcl             1
+C12      47uF           CPOL-USE          PANASONIC_E rcl             1
+
+C13      100uF          CPOL-USE          PANASONIC_E rcl             1
+
+R3       100            R-US_R0603        R0603       rcl             1
+
+R4       10K            R-US_R0603        R0603       rcl             1
+
+R17      1K             R-US_R0603        R0603       rcl             1
+
+R18      30             R-US_R0603        R0603       rcl             1
+
+R5       200            R-US_R0603        R0603       rcl             1
+R6       200            R-US_R0603        R0603       rcl             1
+R7       200            R-US_R0603        R0603       rcl             1
+R8       200            R-US_R0603        R0603       rcl             1
+R9       200            R-US_R0603        R0603       rcl             1
+R10      200            R-US_R0603        R0603       rcl             1
+R11      200            R-US_R0603        R0603       rcl             1
+R12      200            R-US_R0603        R0603       rcl             1
+R13      200            R-US_R0603        R0603       rcl             1
+R14      200            R-US_R0603        R0603       rcl             1
+R15      200            R-US_R0603        R0603       rcl             1
+R16      200            R-US_R0603        R0603       rcl             1
+
+
+
+XTAL1    20MHz          XTAL              XTAL        Ricardo_Library 1
+
+IC1      PIC16F876SO    PIC16F876SO       SO28W       microchip       1
+
+IC2      NC7SZ32        NC7S32            SOT-23-5    magnetometro    1
+
+IC3      MAX3232        MAX3232           SOIC16N     Ricardo_Library 1
+
+IC4      LT1121-3.3     LT1121-3.3        SO08        Ricardo_Library 1
+
+
+COM                     PINHD-1X3/90      1X03/90     pinhead         1
+COM_GPS                 PINHD-1X3/90      1X03/90     pinhead         1
+
+LOG                     PINHD-1X2/90      1X02/90     pinhead         1
+RESET                   PINHD-1X2/90      1X02/90     pinhead         1
+
+PROGRAM                 PINHD-1X6/90      1X06/90     pinhead         1
+
+SPI_BUS                 PINHD-1X6         1X06        pinhead         1
+ADD_BUS                 PINHD-1X6         1X06        pinhead         1
+
+RB0                     PINHD-1X2         1X02        pinhead         1
+
+VIN                     W237-102          W237-102    con-wago-500    1

@@ -1,0 +1,30 @@
+Partlist
+
+Exported from MagnetLCD.brd at 13/10/2021 22:50:06
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part          Value          Package  Library         Position (mil)        Orientation
+
+5VDC_IN                      W237-102 con-wago-500    (311.024 661.417)     MR90
+BCK_LIGHT                    1X02     pinhead         (2470 2265)           MR180
+C1            0.1uF          C0603    rcl             (1643.898 1349.094)   MR0
+C2            22pF           C0603    rcl             (1740.039 674.114)    MR180
+C3            22pF           C0603    rcl             (1571.614 673.11)     MR0
+C4            100uF/50V      E3,5-8   rcl             (876.378 660.157)     MR180
+IC1           PIC16F876SO    SO28W    microchip       (1781.496 1057.48)    MR0
+PROG                         EDG-02   special         (2772.283 1102.795)   MR270
+PROGRAM                      1X06/90  pinhead         (3785.039 1738.228)   MR90
+Q1            2N7000         TO92     Ricardo_Library (3101.732 350.157)    MR0
+Q2            2N7000         TO92     Ricardo_Library (3101.496 640.315)    MR0
+Q3            7.3728MHz      SM49     crystal         (1653.425 400.315)    MR180
+R1            5K             CA9V     pot             (460.709 1345.276)    MR90
+R2            100            R0603    rcl             (3271.969 1100.945)   MR90
+R3            10K            R0603    rcl             (3121.654 1099.882)   MR90
+R4            10K            R0603    rcl             (3327.756 382.48)     MR270
+R5            10K            R0603    rcl             (2887.559 384.646)    MR270
+R6            10K            R0603    rcl             (3325.827 670.354)    MR270
+R7            10K            R0603    rcl             (2892.441 670.63)     MR270
+RST                          1X02/90  pinhead         (3784.094 1084.094)   MR90
+SERIAL                       1X03/90  pinhead         (3784.921 520.157)    MR90
+TO_PANNEL_LCD                1X16     pinhead         (1143.701 2262.992)   R0

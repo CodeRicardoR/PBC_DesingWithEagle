@@ -1,0 +1,29 @@
+Partlist
+
+Exported from TimerControlV1.sch at 16/06/2021 18:55:00
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device     Package     Library         Sheet
+
+C1       0.1uF          C-USC0603  C0603       rcl             1
+C2       100uF          CPOL-USE   PANASONIC_E rcl             1
+C3       100uF          CPOL-USE   PANASONIC_E rcl             1
+C4       0.1uF          C-USC0603  C0603       rcl             1
+C5       0.1uF          C-USC0603  C0603       rcl             1
+D1       1N4148         DIODE      DIODE       Ricardo_Library 1
+HC-05                   PINHD-1X6  1X06        pinhead         1
+IC1      PIC16F628P     PIC16F628P DIL18       microchip       1
+IC2      LT1121-5       LT1121     8SOIC       magnetometro    1
+OK1      4N35           4N35       DIL06       optocoupler     1
+Q1       BC337          BC337      TO92        Ricardo_Library 1
+R1       1K             R-US_R0603 R0603       rcl             1
+R2       100            R-US_R0603 R0603       rcl             1
+R3       1K             R-US_R0603 R0603       rcl             1
+R4       1K             R-US_R0603 R0603       rcl             1
+R5       1K             R-US_R0603 R0603       rcl             1
+REL                     RELE       RELE        Ricardo_Library 1
+RTC                     PINHD-1X7  1X07        pinhead         1
+TMS1637                 PINHD-1X4  1X04        pinhead         1
+VIN                     W237-102   W237-102    con-wago-500    1
+VOUT                    W237-102   W237-102    con-wago-500    1

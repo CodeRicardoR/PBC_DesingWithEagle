@@ -1,0 +1,71 @@
+Partlist
+
+Exported from ShutterControl.sch at 24/10/2021 22:44:11
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device         Package  Library       Sheet
+
+C1       20p            C-USC0603      C0603    rcl           1
+C2       20p            C-USC0603      C0603    rcl           1*
+
+C3       0.1u           C-USC0603      C0603    rcl           1
+C4       0.1u           C-USC0603      C0603    rcl           1
+C5       0.1u           C-USC0603      C0603    rcl           1
+C6       0.1u           C-USC0603      C0603    rcl           1
+C7       0.1u           C-USC0603      C0603    rcl           1
+C8       0.1u           C-USC0603      C0603    rcl           1*
+
+C9       100uF/50V      CPOL-USE3.5-8  E3,5-8   rcl           1*
+
+CONFIG                  LED3MM         LED3MM   led           1*
+
+D1       1N4148DO35-10  1N4148DO35-10  DO35-10  diode         1*
+
+F1                      EMIFIL         NFE-2706 magnetometro  1*
+
+IC1      PIC16F876SO    PIC16F876SO    SO28W    microchip     1*
+
+IC2      MAX3232        MAX3232IDR     SO16     LibraryMagnet 1*
+
+K1       JS-M1-12V-5    JS-M1-12V-5    JS-M     relay         1
+
+
+OK1      4N35           4N35           DIL06    optocoupler   1*
+
+PROG                    SW_DIP-2       EDG-02   special       1*
+
+
+
+Q1       7.3728         CRYSTALHC49U70 HC49U70  crystal       1*
+
+R1       300            R-US_R0603     R0603    rcl           1
+R10      300            R-US_R0603     R0603    rcl           1*
+
+R2       100            R-US_R0603     R0603    rcl           1*
+
+R3       10k            R-US_R0603     R0603    rcl           1*
+
+R4       1k             R-US_R0603     R0603    rcl           1
+R5       1k             R-US_R0603     R0603    rcl           1
+R6       1k             R-US_R0603     R0603    rcl           1
+R7       1k             R-US_R0603     R0603    rcl           1
+R8       1k             R-US_R0603     R0603    rcl           1
+R9       1k             R-US_R0603     R0603    rcl           1*
+
+
+RST                     PINHD-1X2      1X02     pinhead       1*
+PROGRAM                 PINHD-1X6      1X06     pinhead       1*
+
+
+T1       BC337          BC337          TO92     transistor    1
+T2       BC337          BC337          TO92     transistor    1
+T3       BC337          BC337          TO92     transistor    1*
+
+TO_MOTOR                M09HP          M09HP    con-subd      1*
+TO_PC                   F09HP          F09HP    con-subd      1*
+
+
++5VDC_IN                W237-102       W237-102 con-wago-500  1
+LOGGER                  W237-102       W237-102 con-wago-500  1
+SHUTTER                 W237-102       W237-102 con-wago-500  1*

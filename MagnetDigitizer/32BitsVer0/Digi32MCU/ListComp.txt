@@ -1,0 +1,44 @@
+Partlist
+
+Exported from Digi32MCU.sch at 2/08/2022 08:51:03
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part       Value          Device       Package     Library       Sheet
+
+C1         22p            C-USC0603    C0603       rcl           1
+C2         22p            C-USC0603    C0603       rcl           1
+
+C3         0.1u           C-USC0603    C0603       rcl           1
+
+R1         100            R-US_R0603   R0603       rcl           1
+
+R2         10K            R-US_R0603   R0603       rcl           1
+
+C4         100uF          CPOL-USE     PANASONIC_E rcl           1
+
+IC1        PIC18F258      PIC16F876SO  SO28W       microchip     1
+
+Q1         9.8304         CRYSTALSM49  SM49        crystal       1
+-------------------------------------------------------------------------
+
+
+5VDC_IN                   W237-102     W237-102    con-wago-500  1
+
+
+
+CON1                      DIGI32_MCU   MCU_32      LibraryMagnet 1
+
+F1         NFE61PT102     EMIFIL       NFE-2706    magnetometro  1
+
+
+
+PROG                      SW_DIP-2     EDG-02      special       1
+
+
+
+
+
+
+RST                       PINHD-1X2/90 1X02/90     pinhead       1
+TO_PROGRAM                PINHD-1X6/90 1X06/90     pinhead       1
